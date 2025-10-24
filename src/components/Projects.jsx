@@ -9,19 +9,19 @@ const Projects = () => {
         
         {/* Project 1 */}
         <div className="text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-8 py-10 border-teal-500 rounded-lg hover:bg-teal-50">
-          <h1 className='text-3xl font-semibold'>Budgeting App</h1>
-          <h3 className='text-xl text-gray-700'>Tech Stack</h3>
+          <h1 className='text-3xl font-semibold'>College Hockey Award Show</h1>
+          <h3 className='text-xl text-gray-700'>DS 210 Project</h3>
           <p className='text-sm text-gray-600'>
-            Built a responsive React budgeting tool with AI-driven optimization to help students track expenses. Integrated Toastify for real-time feedback.
+            Built a program that analyzed college hockey statistics and gave awards based on the NHL end-of-season trophies.
           </p>
         </div>
 
         {/* Project 2 */}
         <div className="text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-8 py-10 border-teal-500 rounded-lg hover:bg-teal-50">
-          <h1 className='text-3xl font-semibold'>Student Collab Platform</h1>
-          <h3 className='text-xl text-gray-700'>Tech Stack</h3>
+          <h1 className='text-3xl font-semibold'>Mini Hacks Winner</h1>
+          <h3 className='text-xl text-gray-700'>BU Spark! Hackathons</h3>
           <p className='text-sm text-gray-600'>
-            A React-based group project hub enabling college students to form teams, share resources, and track tasks. Firebase for real-time collaboration.
+            Won a hackathon by creating an app idea for voter information awareness.
           </p>
         </div>
 

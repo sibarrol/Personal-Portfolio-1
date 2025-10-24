@@ -10,11 +10,9 @@ const Experience = () => {
         <div className="flex-1">
           <div className="relative space-y-1 border-l-2 p-8 text-left">
             <h3 className='text-xl font-semibold md:text-2xl'>Budgeting Website (BUdget)</h3>
-            <p className='font-light text-lg text-gray-600'>Developer of Interactive Budgeting Tool</p>
+            <p className='font-light text-lg text-gray-600'>DS 210 Final Project</p>
             <p className='text-sm text-gray-600'>
-              Built a responsive web application using React, React Router, and useRef, allowing students to track expenses. 
-              Developed AI-driven budget optimization, providing personalized spending recommendations. 
-              Integrated Toastify notifications and real-time updates for a seamless user experience.
+              Wrote a program collecting college hockey statistics and assigning NHL award equivalents.
             </p>
             <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-teal-500'></span>
           </div>
